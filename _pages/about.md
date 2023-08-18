@@ -18,15 +18,13 @@ redirect_from:
 
 # Selected Experience
 
-## Research Assistant - University of Michigan, Ann Arbor
+**Research Assistant - University of Michigan, Ann Arbor**
 Feb 2023 - Present
-------
 * Far-field subwavelength imaging 
 * Photonic crystal design with inverse design and forward prediction
-* Automatic Lorentzian Peak Detect and Extract in Photoluminescence figure
+* Automatic Lorentzian peak detect for Photoluminescence figure
 
-## Research Assistant - University of Michigan, Ann Arbor
+**Research Assistant - University of Michigan, Ann Arbor**
 Nov 2022 - Present
-------
-* Prediction of bacteria protective antigens using deep learning
+* Prediction of Bacteria Protective Antigens using deep learning
 * Prediction accuracy 0.95, AUC-ROC 0.94
