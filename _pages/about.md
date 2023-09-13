@@ -10,13 +10,13 @@ redirect_from:
 
 👩‍💻 I'am a final year undergraduate student double majoring in Computer Science and Honor Mathematics at [University of Michigan, Ann Arbor](https://umich.edu/).
 
-🐣 My research interests are in Biomedial AI and AI4Science.
+🐣 My research interests are in Biomedial AI and Computational Imaging.
 
 📖 I am seeking a PhD position for Fall 2024.
 
 🐱 I have three adorable cats.
 
-# Selected Experience
+<!-- # Selected Experience
 
 **Research Assistant - University of Michigan, Ann Arbor**
 _Feb 2023 - Present_
@@ -27,4 +27,4 @@ _Feb 2023 - Present_
 **Research Assistant - University of Michigan, Ann Arbor**
 _Nov 2022 - Present_
 * Prediction of Bacteria Protective Antigens using deep learning
-* Prediction accuracy 0.95, AUC-ROC 0.95
+* Prediction accuracy 0.95, AUC-ROC 0.95 -->
