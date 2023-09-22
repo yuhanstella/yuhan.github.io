@@ -1,6 +1,6 @@
 ---
 title: "Reverse Vaccinology and Deep Learning for identifying bacteria protective antigens BPAgs"
-excerpt: "<br/><img src='/images/545screenshot.png'>"
+excerpt: "<br/><img src='/images/VaxignDLss.png'>"
 collection: portfolio
 ---
 
