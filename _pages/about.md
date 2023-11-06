@@ -10,7 +10,7 @@ redirect_from:
 
 👩‍💻 I'am a final year undergraduate student double majoring in Computer Science and Honor Mathematics at [University of Michigan, Ann Arbor](https://umich.edu/).
 
-🐣 My research interests are in Biomedial AI and Computational Imaging.
+🐣 My research interests are in AI4Physics and Computational Imaging.
 
 📖 I am seeking a PhD position for Fall 2024.
 
